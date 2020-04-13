@@ -1,0 +1,6 @@
+ChromeDriver=C:\\Users\\user\\eclipse-workspace\\Crossword-Cucumber\\src\\test\\resources\\binaries\\chromedriver.exe
+firefoxDriver=C:\\Users\\user\\eclipse-workspace\\Crossword-Cucumber\\src\\test\\resources\\binaries\\geckodriver.exe
+URL=https://www.crossword.in/login
+CrosswordLoginURL=https://www.crossword.in/login
+ExcelData=C:\\Users\\user\\eclipse-workspace\\Crossword-Cucumber\\src\\test\\resources\\XLSX\\Testdata.xlsx
+Excelpath=

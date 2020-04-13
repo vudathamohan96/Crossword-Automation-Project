@@ -1,0 +1,28 @@
+2020-04-12 23:10:18,168 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-12 23:10:58,255 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-12 23:11:25,413 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-12 23:28:14,143 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-12 23:42:06,580 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-12 23:42:25,159 [main] INFO LogDemo - Username and Password Entered.
+2020-04-12 23:42:26,225 [main] INFO LogDemo - User Able to Login Successfully
+2020-04-12 23:42:29,324 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-12 23:42:43,840 [main] INFO LogDemo - Username and Password Entered.
+2020-04-12 23:42:49,077 [main] INFO LogDemo - User Able to Login Successfully
+2020-04-12 23:42:50,905 [main] INFO LogDemo - User able to Search the Book.
+2020-04-12 23:42:52,879 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-12 23:43:06,440 [main] INFO LogDemo - Username and Password Entered.
+2020-04-12 23:43:09,792 [main] INFO LogDemo - User Able to Login Successfully
+2020-04-12 23:43:10,438 [main] INFO LogDemo - Navigated to Award Page Window
+2020-04-13 09:36:08,338 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-13 09:38:20,764 [main] INFO LogDemo - Username and Password Entered.
+2020-04-13 09:39:11,563 [main] INFO LogDemo - User Able to Login Successfully
+2020-04-13 09:39:22,908 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-13 09:40:16,434 [main] INFO LogDemo - Username and Password Entered.
+2020-04-13 09:46:22,834 [main] INFO LogDemo - User Able to Login Successfully
+2020-04-13 09:47:27,881 [main] INFO LogDemo - User able to Search the Book.
+2020-04-13 09:47:39,275 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-13 09:50:06,928 [main] INFO LogDemo - Username and Password Entered.
+2020-04-13 11:52:39,860 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
+2020-04-13 11:55:22,027 [main] INFO LogDemo - Username and Password Entered.
+2020-04-13 11:55:37,081 [main] INFO LogDemo - User Able to Login Successfully
+2020-04-13 11:55:46,574 [main] INFO LogDemo - Chrome Driver Opens & Navigated to URL
